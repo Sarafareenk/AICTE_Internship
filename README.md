@@ -1,5 +1,6 @@
 # AICTE_Internship
 🔌 EV Charging Demand Prediction using AI
+
 📌 Project Overview
 This project focuses on predicting electric vehicle (EV) charging demand using machine learning techniques. It aims to leverage artificial intelligence to support sustainable urban development, smart city infrastructure, and efficient green energy utilization.
 
